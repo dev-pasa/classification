@@ -5,7 +5,7 @@
 library(ISLR)
 library(MASS)
 library(caret)
-wine <- read.delim("~/1 UW Tacoma/560 data mining/data/Data sets/Wine_Quality_Training_File")
+wine <- read.delim("https://github.com/dev-pasa/classification-using-R/blob/master/Wine-Quality-Training-File")
 
 ```
 
